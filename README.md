@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ak2022 (Alannah King)
-- 👀 I’m interested in bioinformatics approaches to studying mitochondrial carriers!
-- 🌱 I’m currently learning Pythong/Perl/How to PhD
+- 👀 I’m interested in bioinformatics approaches to studying mitochondrial carriers and other transport proteins!
+- 🌱 I’m currently learning Python/Perl/How to PhD
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 You can reach me via email (ak2022@cam.ac.uk) or Twitter (@LlamaAlannah)
 
 <!---
 ak2022/ak2022 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
